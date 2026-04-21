@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=001f3f,0088a9,00c9ff&height=250&section=header&text=Deva%20M&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20&%20Data%20Science%20Enthusiast%20|%20Aspiring%20Software%20Developer&descAlignY=55&descAlign=50&fontColor=00FF9D" alt="Wave Header"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00FF9D&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mr-deva&label=PROFILE%20VIEWS&color=00FF9D&style=for-the-badge" />
   <img src="https://img.shields.io/badge/FOCUS-AI_%26_DATA_SCIENCE-00c9ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ACHIEVEMENT-HACKATHON_FINALIST-FF007F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00FF9D?style=for-the-badge" />
@@ -93,12 +93,12 @@
   <h2>📊 GitHub Analytics</h2>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_color=00c9ff&bg_color=0d1117" alt="GitHub Stats" width="48%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_color=00c9ff&background=0d1117" alt="GitHub Streak" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=mr-deva&show_icons=true&theme=tokyonight&border_color=00c9ff&bg_color=0d1117" alt="GitHub Stats" width="48%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-deva&theme=tokyonight&border_color=00c9ff&background=0d1117" alt="GitHub Streak" width="48%">
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_color=00c9ff&bg_color=0d1117" alt="Top Languages" width="48%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&hide_border=true" alt="Activity Graph" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-deva&layout=compact&theme=tokyonight&border_color=00c9ff&bg_color=0d1117" alt="Top Languages" width="48%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-deva&theme=tokyo-night&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&hide_border=true" alt="Activity Graph" width="48%">
   </p>
 </div>
 
@@ -182,7 +182,7 @@ user@deva:~$ _
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/mr-deva">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
