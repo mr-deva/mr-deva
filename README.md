@@ -223,6 +223,4 @@ System Design • Cloud • AI Systems • Cybersecurity
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep+Building+Smart+Systems&fontSize=24&fontColor=00D9FF"/>
 
-<div align="center">
-  <sub>Made with ❤️ by Deva M</sub>
-</div>
+
