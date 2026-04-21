@@ -4,21 +4,21 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Deva%20M&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descColor=00D9FF&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Deva%20M&fontSize=80&fontColor=00FF00&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Graphic%20Designer%20%7C%20Data%20Analyst&descAlignY=60&descColor=00D9FF&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Building+AI+Driven+Applications+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%8C%90;AI+%7C+ML+%7C+Backend+Systems+%E2%9A%A1;Creating+Scalable+Solutions+%F0%9F%9A%80;Exploring+Cloud+Technologies+%E2%98%81%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Building+AI+Driven+Applications;Full-Stack+Developer;Data+Driven+Solutions;Creative+Design+%26+Analytics;Exploring+Modern+Technologies" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mr-deva&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=mr-deva&label=PROFILE+VIEWS&color=00FF00&style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-AI_%26_FullStack-00D9FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Focus-FullStack_Development-00D9FF?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Projects-AI%20%7C%20Web%20Apps-FF006E?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Domain-AI_%7C_Data_%7C_Design-FF006E?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open_To_Work-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Status-Open_To_Work-00FF00?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -32,13 +32,13 @@
 
 ## 🧑‍💻 Developer Profile
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=200&lines=%F0%9F%8E%93+B.Tech+AI+%26+Data+Science+Student;%F0%9F%A4%96+AI+%7C+ML+%7C+Full+Stack+Developer;%F0%9F%9A%80+Building+Scalable+Applications;%E2%9A%A1+Backend+%26+API+Development;%F0%9F%8C%90+Data-Driven+Solutions;%F0%9F%8F%86+DevHacks+7.0+Finalist;%F0%9F%93%8D+India+%7C+Open+to+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=200&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+Graphic+Designer;%F0%9F%93%8A+Data+Analytics+Enthusiast;%F0%9F%A4%96+AI+%7C+ML+Applications;%E2%9A%A1+Building+Scalable+Systems;%F0%9F%8F%86+Hackathon+Finalist;%F0%9F%93%8D+India+%7C+Open+to+Opportunities" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-deva&custom_title=Deva's%20Contribution%20Activity&bg_color=0d1117&color=00FF41&line=00D9FF&point=FF006E&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-deva&custom_title=Deva's%20Contribution%20Activity&bg_color=0d1117&color=00FF00&line=00D9FF&point=FF006E&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -122,11 +122,9 @@
 <td width="50%">
 
 ### 🤖 AI Meeting Minutes Generator
-> AI-powered meeting automation system  
-
-- Converts speech → summary → action items  
-- NLP-based intelligent processing  
-- Improves team productivity  
+- Converts meetings → summaries → action items  
+- NLP-based automation system  
+- Enhances productivity  
 
 Tech: Python, React, Node.js, MongoDB  
 
@@ -135,11 +133,9 @@ Tech: Python, React, Node.js, MongoDB
 <td width="50%">
 
 ### 📚 Smart Study Planner
-> AI-based learning consistency tracker  
-
-- Personalized AI timetable  
-- Chatbot guidance & analytics dashboard  
-- Tracks performance and goals  
+- AI-based learning & consistency tracker  
+- Includes chatbot & analytics dashboard  
+- Tracks performance intelligently  
 
 Tech: React, Node.js, MongoDB  
 
@@ -152,13 +148,15 @@ Tech: React, Node.js, MongoDB
 <div align="center">
 
 ### 🧠 AI Career Navigator
-> Intelligent career guidance platform  
+> Next-generation AI platform for career intelligence  
 
-- Skill gap analysis  
-- Career roadmap generation  
-- Job recommendations & interview prep  
+- 🔍 Advanced **skill gap detection engine**  
+- 🎯 Personalized **career roadmap generator**  
+- 📊 Data-driven **job matching system**  
+- 🤖 AI-powered **interview preparation assistant**  
+- 📈 Real-time **progress tracking & analytics dashboard**  
 
-Tech: Python, AI/ML  
+🚀 Designed to help developers make smarter career decisions using AI insights  
 
 </div>
 
@@ -182,20 +180,6 @@ System Design • Cloud • AI Systems • Cybersecurity
 
 <br/>
 
-<!-- QUOTE -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-<div align="center">
-
-## 💬 Dev Quote
-
-> “First, solve the problem. Then, write the code.”  
-
-</div>
-
-<br/>
-
 <!-- CONNECT -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
@@ -212,7 +196,7 @@ System Design • Cloud • AI Systems • Cybersecurity
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep+Building+with+AI&fontSize=24&fontColor=00D9FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep+Building+Smart+Systems&fontSize=24&fontColor=00D9FF"/>
 
 <div align="center">
   <sub>Made with ❤️ by Deva M</sub>
