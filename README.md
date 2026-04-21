@@ -4,21 +4,21 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Deva%20M&fontSize=80&fontColor=00FF00&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Graphic%20Designer%20%7C%20Data%20Analyst&descAlignY=60&descColor=00D9FF&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Deva%20M&fontSize=80&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Graphic%20Designer%20%7C%20Data%20Analyst&descAlignY=60&descColor=FFFFFF&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Building+AI+Driven+Applications;Full-Stack+Developer;Data+Driven+Solutions;Creative+Design+%26+Analytics;Exploring+Modern+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI+Driven+Applications;Full-Stack+Developer;Data+Driven+Solutions;Creative+Design+%26+Analytics;Exploring+Modern+Technologies" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mr-deva&label=PROFILE+VIEWS&color=00FF00&style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=mr-deva&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-FullStack_Development-00D9FF?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Domain-AI_%7C_Data_%7C_Design-FF006E?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open_To_Work-00FF00?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Status-Open_To_Work-00D9FF?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -32,13 +32,13 @@
 
 ## 🧑‍💻 Developer Profile
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=200&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+Graphic+Designer;%F0%9F%93%8A+Data+Analytics+Enthusiast;%F0%9F%A4%96+AI+%7C+ML+Applications;%E2%9A%A1+Building+Scalable+Systems;%F0%9F%8F%86+Hackathon+Finalist;%F0%9F%93%8D+India+%7C+Open+to+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=200&lines=Full+Stack+Developer;Graphic+Designer;Data+Analytics+Enthusiast;AI+%7C+ML+Applications;Building+Scalable+Systems;Hackathon+Finalist;Open+to+Opportunities" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-deva&custom_title=Deva's%20Contribution%20Activity&bg_color=0d1117&color=00FF00&line=00D9FF&point=FF006E&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-deva&custom_title=Deva's%20Contribution%20Activity&bg_color=0d1117&color=00D9FF&line=00FFAA&point=FF006E&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -52,29 +52,54 @@
 
 ## ⚡ Tech Arsenal
 
-### 🔤 Languages
+### 🔤 Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,kotlin&theme=dark"/>
 
 <br/>
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark"/>
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark"/>
 
 <br/>
 
-### ⚙️ Backend & AI
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark"/>
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 <br/>
 
-### 📱 Mobile
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"/>
+
+<br/>
+
+### 🤖 AI / Data / Analytics
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analytics-00C4CC?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<br/>
+
+### 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark"/>
 <img src="https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
 <br/>
 
-### 🛠 Tools
-<img src="https://skillicons.dev/icons?i=git,github,aws,figma,vscode&theme=dark"/>
+### 🎨 Design Tools
+<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+<img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=white"/>
+
+<br/>
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark"/>
+
+<br/>
+
+### 🛠 Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
 
 </div>
 
@@ -124,7 +149,7 @@
 ### 🤖 AI Meeting Minutes Generator
 - Converts meetings → summaries → action items  
 - NLP-based automation system  
-- Enhances productivity  
+- Improves productivity  
 
 Tech: Python, React, Node.js, MongoDB  
 
@@ -133,8 +158,8 @@ Tech: Python, React, Node.js, MongoDB
 <td width="50%">
 
 ### 📚 Smart Study Planner
-- AI-based learning & consistency tracker  
-- Includes chatbot & analytics dashboard  
+- AI-powered learning tracker  
+- Includes chatbot + analytics  
 - Tracks performance intelligently  
 
 Tech: React, Node.js, MongoDB  
@@ -148,15 +173,15 @@ Tech: React, Node.js, MongoDB
 <div align="center">
 
 ### 🧠 AI Career Navigator
-> Next-generation AI platform for career intelligence  
+> Intelligent career guidance system powered by AI  
 
-- 🔍 Advanced **skill gap detection engine**  
-- 🎯 Personalized **career roadmap generator**  
-- 📊 Data-driven **job matching system**  
-- 🤖 AI-powered **interview preparation assistant**  
-- 📈 Real-time **progress tracking & analytics dashboard**  
+- 🔍 Skill gap analysis engine  
+- 🎯 Personalized learning roadmap  
+- 📊 Job recommendation system  
+- 🤖 Interview preparation assistant  
+- 📈 Progress tracking dashboard  
 
-🚀 Designed to help developers make smarter career decisions using AI insights  
+🚀 Helping developers take smarter career decisions  
 
 </div>
 
