@@ -12,7 +12,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+\`\`\`python
 class Deva:
     def __init__(self):
         self.name = "Deva M"
@@ -35,7 +35,7 @@ class Deva:
 
 deva = Deva()
 print(deva.motto())
-```
+\`\`\`
 
 <br clear="right"/>
 
@@ -184,12 +184,12 @@ print(deva.motto())
 
 ### 📚 Currently Learning
 
-```
+\`\`\`
 🔐 Cybersecurity           → Networking, Cloud Security, Threat Analysis
 📊 Applied Data Science    → Data Wrangling, Modeling, Visualization
 ☁️  Cloud Computing         → AWS, Google Cloud Fundamentals
 🤖 Advanced AI/ML          → NLP, Applied Machine Learning Systems
-```
+\`\`\`
 
 ### 📫 Connect with Me
 
